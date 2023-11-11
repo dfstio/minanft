@@ -1,0 +1,2 @@
+# minanft
+MinaNFT project
