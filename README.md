@@ -28,7 +28,7 @@ In essence, MinaNFT is about expanding the utility of NFTs beyond digital art, t
 
 ### Contracts library and data structures
 
-- MinaNFTContract for NFT
+- [MinaNFTContract](https://docs.minanft.io/api/class/minanftcontract/) for NFT
 - MinaNFTNameServiceContract for Name Service
 - MinaNFTMetadataUpdate ZkProgram for metadata updates using Merkle Map proofs
 - RedactedMinaNFTMapCalculation for redacted Merkle Maps proofs
