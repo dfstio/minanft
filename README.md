@@ -6,7 +6,7 @@ The MinaNFT project is an innovative Non-Fungible Token (NFT) platform that inte
 
 Here are the key aspects of the MinaNFT project:
 
-1. **Customized Avatar NFTs**: Users can create personalized avatar NFTs which serve as digital identifiers across social media platforms and in various corporate and contractual interactions.
+1. **Customized Avatar NFTs**: Users can create personalized avatar NFTs that serve as digital identifiers across social media platforms and in various corporate and contractual interactions.
 
 2. **AI-Driven NFT Generation**: MinaNFT employs a user-friendly Telegram bot that enables users to generate unique NFTs by simply describing their avatar idea via text or voice message in any language. The AI technology then takes care of the creation process.
 
@@ -23,6 +23,20 @@ Here are the key aspects of the MinaNFT project:
 8. **Architecture**: The project's architecture includes key contracts on the Mina blockchain, a frontend, backend API, Telegram bot, MinaNFT offline CLI tool, and integration library, all working in tandem to provide a seamless user experience.
 
 In essence, MinaNFT is about expanding the utility of NFTs beyond digital art, transforming them into versatile tools for identity representation and secure content sharing in the digital realm. It leverages the strengths of the Mina blockchain and AI to offer enhanced privacy, security, and functionality.
+
+## Features
+
+### Contracts library and data structures
+
+- MinaNFTContract for NFT
+- MinaNFTNameServiceContract for Name Service
+- MinaNFTMetadataUpdate ZkProgram for metadata updates using Merkle Map proofs
+- RedactedMinaNFTMapCalculation for redacted Merkle Maps proofs
+- RedactedMinaNFTTreeCalculation for redacted Merkle Tree proofs
+- MinaNFTVerifier and MinaNFTTreeVerifier for verification of redacted map and tree proofs
+- MinaNFTVerifierBadge for assigning badges to NFTs
+- Escrow for NFT transfers through the escrow mechanism
+- NFTMintData, MintData, Metadata, MetadataMap, MetadataWitness, MetadataUpdate, MetadataTransition, Storage, Update, EscrowTransfer, EscrowApproval data structures to be used in contracts
 
 ## Documentation
 
