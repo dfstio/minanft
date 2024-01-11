@@ -20,7 +20,7 @@ https://t.me/minanft_bot
 
 https://github.com/dfstio/minanft-api
 
-## Library on NPM
+## Library
 
 https://www.npmjs.com/package/minanft
 
