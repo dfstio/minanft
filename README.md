@@ -29,14 +29,14 @@ In essence, MinaNFT is about expanding the utility of NFTs beyond digital art, t
 ### Contracts library and data structures
 
 - [MinaNFTContract](https://docs.minanft.io/api/class/minanftcontract/) for NFT
-- MinaNFTNameServiceContract for Name Service
-- MinaNFTMetadataUpdate ZkProgram for metadata updates using Merkle Map proofs
-- RedactedMinaNFTMapCalculation for redacted Merkle Maps proofs
-- RedactedMinaNFTTreeCalculation for redacted Merkle Tree proofs
-- MinaNFTVerifier and MinaNFTTreeVerifier for verification of redacted map and tree proofs
-- MinaNFTVerifierBadge for assigning badges to NFTs
-- Escrow for NFT transfers through the escrow mechanism
-- NFTMintData, MintData, Metadata, MetadataMap, MetadataWitness, MetadataUpdate, MetadataTransition, Storage, Update, EscrowTransfer, EscrowApproval data structures to be used in contracts
+- [MinaNFTNameServiceContract](https://docs.minanft.io/api/class/minanftnameservicecontract/) for Name Service
+- [MinaNFTMetadataUpdate](https://docs.minanft.io/api#MinaNFTMetadataUpdate) ZkProgram for metadata updates using Merkle Map proofs
+- [RedactedMinaNFTMapCalculation](https://docs.minanft.io/api#RedactedMinaNFTMapCalculation) for redacted Merkle Maps proofs
+- [RedactedMinaNFTTreeCalculation](https://docs.minanft.io/api#RedactedMinaNFTTreeCalculation20) for redacted Merkle Tree proofs
+- [MinaNFTVerifier](https://docs.minanft.io/api/class/minanftverifier/) and MinaNFTTreeVerifier for verification of redacted map and tree proofs
+- [MinaNFTVerifierBadge](https://docs.minanft.io/api/class/minanftverifierbadge/) for assigning badges to NFTs
+- [Escrow](https://docs.minanft.io/api/class/escrow/) for NFT transfers through the escrow mechanism
+- [NFTMintData](https://docs.minanft.io/api/class/nftmintdata/), [MintData]()https://docs.minanft.io/api/class/mintdata/, [Metadata](https://docs.minanft.io/api/class/metadata/), MetadataMap, MetadataWitness, MetadataUpdate, MetadataTransition, Storage, Update, EscrowTransfer, EscrowApproval data structures to be used in contracts
 
 ## Documentation
 
