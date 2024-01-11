@@ -1,3 +1,18 @@
 [submodule "minanft-lib"]
 	path = minanft-lib
 	url = https://github.com/dfstio/minanft-lib
+[submodule "minanft-api"]
+	path = minanft-api
+	url = https://github.com/dfstio/minanft-api
+[submodule "minanftio"]
+	path = minanftio
+	url = https://github.com/dfstio/minanftio
+[submodule "minanft-docs"]
+	path = minanft-docs
+	url = https://github.com/dfstio/minanft-docs
+[submodule "minanft-cli"]
+	path = minanft-cli
+	url = https://github.com/dfstio/minanft-cli
+[submodule "minanft-lib-example"]
+	path = minanft-lib-example
+	url = https://github.com/dfstio/minanft-lib-example
