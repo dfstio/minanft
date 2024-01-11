@@ -107,6 +107,12 @@ In essence, MinaNFT is about expanding the utility of NFTs beyond digital art, t
 - [ARWEAVE](https://docs.minanft.io/api/class/ARWEAVE) for Arweave off-chain storage
 - [BackendPlugin](https://docs.minanft.io/api/class/BackendPlugin) for parallel calculations of the recursive proofs in the serverless backend
 
+### CLI tool
+
+### Supported languages
+
+### Social networks
+
 ## Links
 
 ### Documentation
