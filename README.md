@@ -147,7 +147,7 @@ In essence, MinaNFT is about expanding the utility of NFTs beyond digital art, t
 ### Social networks
 
 - twitter: [minanft_io](https://twitter.com/minanft_io)
-- discord : [MinaNFT discord server](https://discord.gg/CVc9yz8K)
+- discord : [MinaNFT discord server](https://discord.gg/j8XpQ3pr)
 
 ## Links
 
